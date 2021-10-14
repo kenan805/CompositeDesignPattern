@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.exe
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.deps.json
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.dll
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\ref\CompositeDesignPattern.dll
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net5.0\CompositeDesignPattern.pdb
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.dll
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\ref\CompositeDesignPattern.dll
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.pdb
+C:\Users\user\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net5.0\CompositeDesignPattern.genruntimeconfig.cache
